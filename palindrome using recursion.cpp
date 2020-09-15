@@ -1,0 +1,1 @@
+#include<bits\stdc++.h>using namespace std;void palindrome(int n, 0){   if (n == 0){        return 0;   }   temp = n%10;   if temp ==   palindrome()}int main(){    int n;    cin>>n;    palindrome n;    return 0;}

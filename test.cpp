@@ -1,0 +1,1 @@
+#include <iostream>using namespace std;int main() {	int t;	cin>>t;	while(t--){	    int rev = 312/42;	    cout<<rev;	}	return 0;}
